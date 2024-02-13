@@ -8,7 +8,7 @@ body{
     display: flex;
     place-items: center;
     justify-content: center;
-    aanimation: fadeIn 1.5s ease-out;
+    animation: fadeIn 1.5s ease-out;
 }
 .nights{
     position: fixed;
